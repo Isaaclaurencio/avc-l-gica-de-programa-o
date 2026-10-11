@@ -4,8 +4,7 @@
 # tarmetro = 5,40
 # tartrilho = 8,90
 
-# '''try serve como se fosse uma rede de segurança e com o except ele segura o programa sem dar erro usei para caso coloque lera ao inves de número não dar erro e parar o sistema (isaac rocha) '''
-
+#DEIXE TUDO CADEADO NO PRIMEIRO WHILE NÃO PODE TER FORA DELE (ISAAC)
 
 while True:
     print("SIMULADOR DE VALE-TRANSPORTE (VT)")
@@ -36,3 +35,4 @@ while True:
             tarifa = 8.90
         else:
             print("Tipo de transporte inválido!")
+# o código acima foi feito por Isaac
